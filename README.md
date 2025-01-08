@@ -36,17 +36,19 @@
             <tr>
                 <th style="padding: 15px; font-size: 15px; border-bottom: 2px solid #ddd;text-align: center;">Initiated</th>
                 <th style="padding: 15px; font-size: 15px; border-bottom: 2px solid #ddd;text-align: center;">Completed</th>
-                <th style="padding: 15px; font-size: 15px; border-bottom: 2px solid #ddd;text-align: center;">Progress on 29Dec24</th>
+                <th style="padding: 15px; font-size: 15px; border-bottom: 2px solid #ddd;text-align: center;">Progress - 29Dec24</th>
+                <th style="padding: 15px; font-size: 15px; border-bottom: 2px solid #ddd;text-align: center;">YT video length</th>
             </tr>
         </thead>
         <tbody style="background-color: #f9f9f9;">
             <tr>
-                <td style="padding: 12px; font-size: 16px; color: #336699; font-weight: bold;">December 2024</td>
-                <td style="padding: 12px; font-size: 16px; color: #336699; font-weight: bold;">Est. ~ April 2025</td>
-                <td style="padding: 12px; font-size: 16px; color: #336699; font-weight: bold;">
-                    <div style="background-color: #4caf50; width: 1px; height: 20px; border-radius: 10px; margin: 0 auto;"></div>
-                    1%
+                <td style="padding: 12px; font-size: 16px; color: #336699; font-weight: bold; text-align: center;">December 2024</td>
+                <td style="padding: 12px; font-size: 16px; color: #336699; font-weight: bold; text-align: center;">Est. ~ mid 2025</td>
+                <td style="padding: 12px; font-size: 16px; color: #336699; font-weight: bold; text-align: center;">
+                    <div style="background-color: #4caf50; width: 2px; height: 20px; border-radius: 10px; margin: 0 auto; text-align: center;"></div>
+                    2%
                 </td>
+                <td style="padding: 12px; font-size: 16px; color: #336699; font-weight: bold; text-align: center;"> 10 hours </td>
             </tr>
         </tbody>
     </table>
@@ -107,7 +109,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/r3ss1/Ecommerce
+git clone https://github.com/rr3s1/Ecommerce
 cd borcella_admin
 ```
 More details will be provided at a later date as the project is in an incipient state.
