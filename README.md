@@ -21,7 +21,7 @@
 <br><br>
     <a href="https://www.youtube.com/watch?v=SR4dFgdKUyI" target="_blank">Project Video</a>
     <br>
-    <a href="https://github.com/phuc-mai" target="_blank">Maria's GitHub</a><br><br>
+    <a href="https://github.com/phuc-mai" target="_blank">Phuc Mai's GitHub</a><br><br>
 </div>
 </div>
 
@@ -110,7 +110,7 @@ Assets used in the project will be provided here.
 
 Many thanks to Phuc Hong Mai (Maria) for the tutorial and course resources!
 
- [Maria Phuc's Youtube](https://www.youtube.com/@codewithphuc).
+ [Phuc Mai's Youtube](https://www.youtube.com/@codewithphuc).
 
 ## 📄 License
 
