@@ -24,35 +24,6 @@
     <a href="https://github.com/phuc-mai" target="_blank">Maria's GitHub</a><br><br>
 </div>
 </div>
-  <div style="text-align: center; margin-top: 20px;">
-    <table style="
-        margin: 0 auto; 
-        width: 80%;
-        border-radius: 8px;
-        border-collapse: collapse;
-        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-        text-align: center;">
-        <thead style="background-color: #336699; color: white;">
-            <tr>
-                <th style="padding: 15px; font-size: 15px; border-bottom: 2px solid #ddd;text-align: center;">Initiated</th>
-                <th style="padding: 15px; font-size: 15px; border-bottom: 2px solid #ddd;text-align: center;">Completed</th>
-                <th style="padding: 15px; font-size: 15px; border-bottom: 2px solid #ddd;text-align: center;">Progress - 29Dec24</th>
-                <th style="padding: 15px; font-size: 15px; border-bottom: 2px solid #ddd;text-align: center;">YT video length</th>
-            </tr>
-        </thead>
-        <tbody style="background-color: #f9f9f9;">
-            <tr>
-                <td style="padding: 12px; font-size: 16px; color: #336699; font-weight: bold; text-align: center;">December 2024</td>
-                <td style="padding: 12px; font-size: 16px; color: #336699; font-weight: bold; text-align: center;">Est. ~ mid 2025</td>
-                <td style="padding: 12px; font-size: 16px; color: #336699; font-weight: bold; text-align: center;">
-                    <div style="background-color: #4caf50; width: 2px; height: 20px; border-radius: 10px; margin: 0 auto; text-align: center;"></div>
-                    2%
-                </td>
-                <td style="padding: 12px; font-size: 16px; color: #336699; font-weight: bold; text-align: center;"> 10 hours </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
 
 ## <a name="introduction">🤖 Introduction</a>
 
